@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>Mega Man, known as Rockman in Japan, is a Japanese science fiction video game franchise created by Capcom, starring a series of robot characters each known by the moniker "Mega Man". The original game was released for the Nintendo Entertainment System in 1987, and spawned a franchise that expanded to over 50 games on multiple systems.</systemDescription>
+      <systemManufacturer>Capcom</systemManufacturer>
+      <systemReleaseYear>1987</systemReleaseYear>
+      <systemReleaseDate>&#032;</systemReleaseDate>
+      <systemReleaseDateFormated>&#032;</systemReleaseDateFormated>
+      <systemHardwareType>Collection</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemColorPalette1>6fcbfe</systemColorPalette1>
+      <systemColorPalette2>1149a2</systemColorPalette2>
+      <systemColorPalette3>d71417</systemColorPalette3>
+      <systemColorPalette4>05b2c1</systemColorPalette4>
+   </variables>
+</theme>

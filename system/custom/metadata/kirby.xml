@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>Kirby is the titular main protagonist of Nintendo's Kirby series of video games. He made his debut appearance in 1992, starring in Kirby's Dream Land. The series has been running for three decades, and over thirty titles have been released under Kirby's name, most of which are developed by HAL Laboratory, Inc. or published by HAL for co-developing studios.</systemDescription>
+      <systemManufacturer>Hal</systemManufacturer>
+      <systemReleaseYear>1992</systemReleaseYear>
+      <systemReleaseDate>&#032;</systemReleaseDate>
+      <systemReleaseDateFormated>&#032;</systemReleaseDateFormated>
+      <systemHardwareType>Collection</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemColorPalette1>fecff9</systemColorPalette1>
+      <systemColorPalette2>f594b5</systemColorPalette2>
+      <systemColorPalette3>ab0034</systemColorPalette3>
+      <systemColorPalette4>cbc40b</systemColorPalette4>
+   </variables>
+</theme>

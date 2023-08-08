@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>Pokémon is a Japanese media franchise encompassing video games, animated series and films, a trading card game, and other related media. The franchise takes place in a shared universe in which humans co-exist with creatures known as Pokémon, which are primarily caught and raised by Pokémon Trainers to battle each other for sport. The franchise's target audience is children aged 5 to 12, but it has garnered fans of all ages.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1996</systemReleaseYear>
+      <systemReleaseDate>&#032;</systemReleaseDate>
+      <systemReleaseDateFormated>&#032;</systemReleaseDateFormated>
+      <systemHardwareType>Collection</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemColorPalette1>a61515</systemColorPalette1>
+      <systemColorPalette2>000000</systemColorPalette2>
+      <systemColorPalette3>ffffff</systemColorPalette3>
+      <systemColorPalette4>fad82d</systemColorPalette4>
+   </variables>
+</theme>

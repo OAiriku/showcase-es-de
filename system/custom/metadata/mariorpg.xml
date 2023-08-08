@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>The Mario franchise, which originated as a series of platform games, has inspired a variety of role-playing video games released on multiple Nintendo video game consoles. All games feature Mario as the protagonist, who is often accompanied by one or more playable characters, with the goal of defeating the main antagonist, primarily Bowser. The first role-playing game in the franchise, Super Mario RPG (1996), was developed by Square for the Super NES. The two primary sub-series, Paper Mario and Mario & Luigi, follow conventions established in the original game.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1996</systemReleaseYear>
+      <systemReleaseDate>&#032;</systemReleaseDate>
+      <systemReleaseDateFormated>&#032;</systemReleaseDateFormated>
+      <systemHardwareType>Collection</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemColorPalette1>e80b38</systemColorPalette1>
+      <systemColorPalette2>fcdb0d</systemColorPalette2>
+      <systemColorPalette3>8a1429</systemColorPalette3>
+      <systemColorPalette4>b5cf84</systemColorPalette4>
+   </variables>
+</theme>

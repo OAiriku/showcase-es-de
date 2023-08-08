@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>Mario Party is a party video game series featuring characters from the Mario franchise in which up to four local players or computer-controlled characters (called "CPUs") compete in a board game interspersed with minigames. The games are currently developed by NDcube and published by Nintendo, being previously developed by Hudson Soft. The series is known for its party game elements, including the often unpredictable multiplayer modes that allow play with up to four, and sometimes eight, human players or CPUs.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1998</systemReleaseYear>
+      <systemReleaseDate>&#032;</systemReleaseDate>
+      <systemReleaseDateFormated>&#032;</systemReleaseDateFormated>
+      <systemHardwareType>Collection</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemColorPalette1>e92f28</systemColorPalette1>
+      <systemColorPalette2>ffffff</systemColorPalette2>
+      <systemColorPalette3>0176bd</systemColorPalette3>
+      <systemColorPalette4>8ccbf1</systemColorPalette4>
+   </variables>
+</theme>

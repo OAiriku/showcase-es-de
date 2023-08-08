@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>There have been numerous sports games in the Mario franchise. Many of these games offered a new approach to the sport while including beloved Nintendo characters.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1987</systemReleaseYear>
+      <systemReleaseDate>&#032;</systemReleaseDate>
+      <systemReleaseDateFormated>&#032;</systemReleaseDateFormated>
+      <systemHardwareType>Collection</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemColorPalette1>ff90dc</systemColorPalette1>
+      <systemColorPalette2>ff0a23</systemColorPalette2>
+      <systemColorPalette3>3b9c19</systemColorPalette3>
+      <systemColorPalette4>ffc65a</systemColorPalette4>
+   </variables>
+</theme>

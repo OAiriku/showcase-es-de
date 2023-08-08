@@ -1,0 +1,15 @@
+<theme>
+   <variables>
+      <systemDescription>Metroid is an action-adventure game franchise created by Nintendo. The player controls the bounty hunter Samus Aran, who protects the galaxy from Space Pirates and other malevolent forces and their attempts to harness the power of the parasitic Metroid creatures.</systemDescription>
+      <systemManufacturer>Nintendo</systemManufacturer>
+      <systemReleaseYear>1986</systemReleaseYear>
+      <systemReleaseDate>&#032;</systemReleaseDate>
+      <systemReleaseDateFormated>&#032;</systemReleaseDateFormated>
+      <systemHardwareType>Collection</systemHardwareType>
+      <systemColor>777777</systemColor>
+      <systemColorPalette1>C4353D</systemColorPalette1>
+      <systemColorPalette2>C2904A</systemColorPalette2>
+      <systemColorPalette3>853641</systemColorPalette3>
+      <systemColorPalette4>4C301C</systemColorPalette4>
+   </variables>
+</theme>
